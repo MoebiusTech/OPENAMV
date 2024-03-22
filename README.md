@@ -9,3 +9,5 @@ The network models of frameworks such as TensorFlow/MXNet/PyTorch/Caffe can be e
 RV1103G introduces a new generation of fully hardware based image signal processors. The chip directly inherits numerous algorithm accelerators,
 Such as HDR, 3A, LSC, 3DNR, 2DNR, sharpening, defogging, gamma correction, etc. Paired with two MIPI CSIs (or LVDS RX), use
 Users can support multi camera video data
+
+sdk link：https://drive.google.com/file/d/1gOVX4RHDv9fHbQt9-Iw3N4xYa2zB6Ncr/view?usp=sharing
