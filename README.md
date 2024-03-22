@@ -1,4 +1,5 @@
 # OPENAMV
+
 OpenAMV is an AI visual and voice development board designed based on RV1103. The onboard rich GPIO can be used.
 RV1103G is a highly integrated IPC SoC suitable for AI vision related applications.
 Based on a single core ARM Cortex-A7 32-bit kernel, it integrates NEON and FPU. There is a 32KB I-cache and a 32KB D-cache
