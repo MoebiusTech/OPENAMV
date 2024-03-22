@@ -1,4 +1,4 @@
-# OPENAMV
+# OPEN AMV
 ![WechatIMG2806](https://github.com/MoebiusTech/OPENAMV/assets/49725124/0674301e-e795-4c25-ac80-8273cf6dac81)
 
 OpenAMV is an AI visual and voice development board designed based on RV1103. The onboard rich GPIO can be used.
